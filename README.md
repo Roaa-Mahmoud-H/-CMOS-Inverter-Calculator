@@ -19,8 +19,9 @@ A Python-based simulator for CMOS inverter behavior, accounting for:
 - Semiconductor physics equations  
 
 ## 📊 Sample Output  
-![Transfer Characteristic Plot](images/transfer_curve.png)  
-![Drain Current Plot](images/current_curve.png)  
+![Drain Current vs V_in](https://github.com/user-attachments/assets/3d409846-ee7f-4120-84e0-ba0cba51182a)
+![V_out vs V_in](https://github.com/user-attachments/assets/dd0a8be2-e3a4-409b-a7fe-8cca7d1be865)
+
 
 ## 🚀 How to Run  
 ```bash
